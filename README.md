@@ -1,4 +1,4 @@
-![thumbnail-github-carson](https://user-images.githubusercontent.com/54003876/133914929-e5afe0a9-a284-4d4f-a0d2-0b96ae75b9e9.png)
+![thumbnail-github-carson](https://user-images.githubusercontent.com/54003876/133915388-a854039a-0590-4294-abf1-b1a3e2c30912.png)
 
 O CarsOn nasceu através da necessidade da empresa parceira expandir o seu negocio online de vendas de imovéis para venda de automoveis.
 
