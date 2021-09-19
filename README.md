@@ -1,4 +1,4 @@
-![car-on-wallpaper 1](https://user-images.githubusercontent.com/55189046/133905993-09453f58-249f-429e-a097-4dc3f84a9108.png)
+![thumbnail-github-carson](https://user-images.githubusercontent.com/54003876/133914929-e5afe0a9-a284-4d4f-a0d2-0b96ae75b9e9.png)
 
 O CarsOn nasceu através da necessidade da empresa parceira expandir o seu negocio online de vendas de imovéis para venda de automoveis.
 
@@ -46,9 +46,10 @@ Desenvolver um sistema para vendas de automoveis online.
 O Projeto consiste em um sistema online para vendas de automoveis. A plataforma possibilita a compra e venda de automoveis.
 
 ### Requisitos não funcionais:
-
-As principais tecnologias que utilizamos para o desenvolvumento do projeto foram: TypeScript - React - Node.js - Postgres
+As principais tecnologias que utilizamos para o desenvolvumento do projeto foram: TypeScript - React - Node.js - Docker - MongoDB
+###### *Clique na imagem para ver em alta definição*
+![carson-tecnologias](https://user-images.githubusercontent.com/54003876/133913883-b2548894-17a7-4958-909e-8b110eb760d8.png)
 
 ### Backlog do Projeto
-
-### Entregas
+###### *Clique na imagem para ver em alta definição*
+![carson-sprints](https://user-images.githubusercontent.com/54003876/133915263-0b1b4475-1711-4739-9ea0-4ed7e24ccf2f.png)
