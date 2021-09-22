@@ -43,7 +43,7 @@ O nosso objetivo foi atender uma proposta da empresa parceira cujo a necessidade
 
 
 ### Requisitos não funcionais:
-As principais tecnologias que utilizamos para o desenvolvumento do projeto foram: TypeScript - React - Node.js - Docker - MongoDB
+As principais tecnologias que utilizamos para o desenvolvimento do projeto foram: TypeScript - React - Node.js - Docker - MongoDB
 ###### *Clique na imagem para ver em alta definição*
 ![carson-tecnologias](https://user-images.githubusercontent.com/54003876/133913883-b2548894-17a7-4958-909e-8b110eb760d8.png)
 
