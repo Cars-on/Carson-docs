@@ -44,9 +44,27 @@ O nosso objetivo foi atender uma proposta da empresa parceira cujo a necessidade
 
 ### Requisitos não funcionais:
 As principais tecnologias que utilizamos para o desenvolvimento do projeto foram: TypeScript - React - Node.js - Docker - MongoDB
-###### *Clique na imagem para ver em alta definição*
+
 ![carson-tecnologias](https://user-images.githubusercontent.com/54003876/133913883-b2548894-17a7-4958-909e-8b110eb760d8.png)
 
+Requisitos funcionais
+- Importação de CSVs para criação de usuários e anúncios
+- Criação de logs de erros quando subir os anúncios ou usuários
+- Gerar VSC com os anúncios / usuários com erro
+- Comunicação em tempo real através de um chat
+- Painel com dados busca e acesso de cada anúncio
+- Filtros para pesquisa de veículos como valor, localidade, marca etc ...
+- Criação de um app mobile
+
+
 ### Backlog do Projeto
-###### *Clique na imagem para ver em alta definição*
+
 ![carson-sprints](https://user-images.githubusercontent.com/54003876/133915263-0b1b4475-1711-4739-9ea0-4ed7e24ccf2f.png)
+
+[Sprint 1](https://github.com/Cars-on/Carson-docs/tree/master/sprint%201) - 30/08/2021 a 19/09/2021
+
+Sprint 2 - 20/09/2021 a 10/10/2021
+
+Sprint 3 - 18/10/2021 a 07/11/2021
+
+Sprint 4 - 08/11/2020 a 28/11/2021
