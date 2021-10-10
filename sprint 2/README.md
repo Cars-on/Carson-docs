@@ -31,7 +31,7 @@ Na primeira sprint foi de comum acordo que o produto de maior valor seria o sist
 [Sprint 1](https://github.com/Cars-on/Carson-docs/tree/master/sprint%201)
 
 Nesta segunda sprint priorizamos a segurança assim desenvolvendo e aprimorando o sistema de login, desta forma permitindo que a aplicação fique apta ao sistema de chat planejado para a sprint 3.
-Assim como descrito no [Backlog](https://github.com/Cars-on/Carson-docs/new/master#sprint-2---descri%C3%A7%C3%A3o-da-entrega)
+Assim como descrito no [Backlog](https://github.com/Cars-on/Carson-docs/tree/master/sprint%202#sprint-2---descri%C3%A7%C3%A3o-da-entrega)
 
 ## Links de acesso ao produto
 
