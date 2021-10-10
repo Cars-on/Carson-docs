@@ -35,9 +35,9 @@ Assim como descrito no [Backlog](https://github.com/Cars-on/Carson-docs/tree/mas
 
 ## Links de acesso ao produto
 
-[Frontend](https://github.com/Cars-on/Carson-api)
+[Backend](https://github.com/Cars-on/Carson-api)
 
-[Backend](https://github.com/Cars-on/Carson-web)
+[Frontend](https://github.com/Cars-on/Carson-web)
 
 [Documentação](https://github.com/Cars-on/Carson-docs)
 
